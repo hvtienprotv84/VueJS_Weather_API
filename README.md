@@ -1,4 +1,4 @@
-# VueJS - Weather API
+# VueJS - Weather API - Thời Tiết API
 - Vue3
 - Open Weather Map API
 - Tailwind CSS
